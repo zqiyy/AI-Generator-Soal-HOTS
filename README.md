@@ -1,10 +1,10 @@
-# 🧠 Soal HOTS AI
+# Soal HOTS AI
 
 Aplikasi web berbasis AI untuk membantu guru dan dosen membuat soal berkualitas tinggi sesuai **Taksonomi Bloom Revisi (C1–C6)**. Cukup tempelkan materi teks, atur parameter soal, dan biarkan AI menghasilkan soal lengkap dengan kunci jawaban, penjelasan, hingga rubrik penilaian.
 
 ---
 
-## ✨ Fitur
+## Fitur
 
 - **Generator Soal AI** — Hasilkan soal otomatis dari teks materi menggunakan Google Gemini AI
 - **3 Tipe Soal** — Pilihan Ganda, Esai (dengan rubrik), dan Benar/Salah
@@ -16,7 +16,7 @@ Aplikasi web berbasis AI untuk membantu guru dan dosen membuat soal berkualitas 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Teknologi |
 |---|---|
@@ -30,7 +30,7 @@ Aplikasi web berbasis AI untuk membantu guru dan dosen membuat soal berkualitas 
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 ### 1. Clone repo
 
@@ -65,7 +65,7 @@ Buka [http://localhost:8080](http://localhost:8080)
 
 ---
 
-## 📁 Struktur Proyek
+## Struktur Proyek
 
 ```
 src/
@@ -84,7 +84,7 @@ src/
 
 ---
 
-## 🗄️ Skema Database (Supabase)
+## Skema Database (Supabase)
 
 - `profiles` — Data profil pengguna
 - `question_sets` — Set soal (judul, mapel, jenjang, tipe, distribusi Bloom)
@@ -92,6 +92,6 @@ src/
 
 ---
 
-## 📄 Lisensi
+## Lisensi
 
 MIT License — bebas digunakan dan dimodifikasi.
